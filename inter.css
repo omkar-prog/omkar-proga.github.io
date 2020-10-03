@@ -1,0 +1,6 @@
+body {
+    background-image: radial-gradient(rgba(73, 235, 247, 0.842), rgb(140, 140, 221));
+}
+.card:hover {
+    box-shadow: 10px 5px 5px rgb(193, 247, 229);
+}
